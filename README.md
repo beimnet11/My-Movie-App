@@ -28,12 +28,12 @@ To run this project locally:
 
 2. Install dependencies:
 
-  ```bash
+  ``bash
     cd movie-finder
     npm install
 
 3. Run the app:
-  ```bash
+  `bash
     npm start
 
 # React + Vite
