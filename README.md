@@ -28,9 +28,8 @@ To run this project locally:
 
 2. Install dependencies:
 
-  ``bash
-    cd movie-finder
-    npm install
+cd movie-finder
+npm install
 
 3. Run the app:
   `bash
